@@ -1,4 +1,4 @@
-#!/usr/bin/env
+#!/usr/bin/env python3
 
 # return_text_value() function
 
