@@ -1,7 +1,4 @@
-def remove_items_from_list(ordered_list, items_to_remove):
-    for item in items_to_remove:
-        while item in ordered_list:
-            ordered_list.remove(item)#!/usr/bin/env python3
+#!/usr/bin/env python3
 
 # Place my_list below this comment (before the function definitions)
 
