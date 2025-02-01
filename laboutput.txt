@@ -30,5 +30,5 @@ OPS445 Lab Report - System Information for running ./CheckLab3.py
     Python version: 3123
     OS Platform: linux
     Working Directory: /home/btaylor31/ops445/lab3/lab3
-    Start at: Fri Jan 31 19:31:39 2025
+    Start at: Fri Jan 31 19:39:48 2025
 =================================================================
