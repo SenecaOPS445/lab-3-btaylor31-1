@@ -6,6 +6,7 @@ my_list = [1, 2, 3, 4, 5]
 
 def add_item_to_list(ordered_list):
     # Appends new item to the end of the list with the value (last item + 1)
+
 def add_item_to_list(ordered_list):
     # Appends new item to end of list with the value (last item + 1)
     lastListItem = ordered_list[-1]
