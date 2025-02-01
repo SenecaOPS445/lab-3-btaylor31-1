@@ -13,7 +13,7 @@ def remove_items_from_list(ordered_list, items_to_remove):
     # Removes all values found in items_to_remove list from ordered_list
     for item in items_to_remove:
         if item in ordered_list:
-            ordered_list.remove(item)  
+            ordered_list.remove(item) # to remove item  
 
 # Main Code
 if __name__ == '__main__':
