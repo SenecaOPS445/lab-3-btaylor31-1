@@ -19,7 +19,7 @@ Traceback (most recent call last):
 AssertionError: None != 15 : lab3a.py print_out_text() has wrong output(HINT: make sure you copied the script exactly!
 
 ----------------------------------------------------------------------
-Ran 5 tests in 0.011s
+Ran 5 tests in 0.008s
 
 FAILED (failures=1)
 OPS445 Lab Report - System Information for running ./CheckLab3.py
@@ -30,5 +30,5 @@ OPS445 Lab Report - System Information for running ./CheckLab3.py
     Python version: 3123
     OS Platform: linux
     Working Directory: /home/btaylor31/ops445/lab3/lab3
-    Start at: Fri Jan 31 19:27:37 2025
+    Start at: Fri Jan 31 19:31:39 2025
 =================================================================
